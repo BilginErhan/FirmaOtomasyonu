@@ -1,0 +1,25 @@
+﻿Build started 1.5.2015 20:06:09.
+     1>Project "C:\Users\ERHAN\documents\visual studio 2013\Projects\NesneOdev1\NesneOdev1\NesneOdev1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Firma.cpp
+         Firma.cpp
+     1>c:\users\erhan\documents\visual studio 2013\projects\nesneodev1\nesneodev1\firma.cpp(375): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\erhan\documents\visual studio 2013\projects\nesneodev1\nesneodev1\firma.cpp(459): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\erhan\documents\visual studio 2013\projects\nesneodev1\nesneodev1\firma.cpp(512): warning C4715: 'Firma::FirmaAdiKontrol' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ERHAN\documents\visual studio 2013\Projects\NesneOdev1\Debug\NesneOdev1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ERHAN\documents\visual studio 2013\Projects\NesneOdev1\Debug\NesneOdev1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ERHAN\documents\visual studio 2013\Projects\NesneOdev1\Debug\NesneOdev1.lib" /MACHINE:X86 Debug\Firma.obj
+         Debug\Kampanya.obj
+         Debug\Kategori.obj
+         Debug\SahisSirketi.obj
+         Debug\Satis.obj
+         Debug\SermayeSirketi.obj
+         Debug\Stok.obj
+         Debug\Urun.obj
+         Debug\UrunDetay.obj
+         Debug\Yurutucu.obj
+         NesneOdev1.vcxproj -> C:\Users\ERHAN\documents\visual studio 2013\Projects\NesneOdev1\Debug\NesneOdev1.exe
+     1>Done Building Project "C:\Users\ERHAN\documents\visual studio 2013\Projects\NesneOdev1\NesneOdev1\NesneOdev1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.10
